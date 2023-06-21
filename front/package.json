@@ -23,7 +23,7 @@
     "gas-price-oracle": "^0.4.4",
     "gulp": "^4.0.2",
     "gulp-html-minifier": "^0.1.8",
-    "nuxt": "2.14.7",
+    "nuxt": "3.4.3",
     "nuxt-buefy": "^0.3.4",
     "nuxt-validate": "^0.1.2",
     "nuxt-web3-provider": "0.1.2",
